@@ -1,2 +1,3 @@
-# Korea-Translation-of-R-Style-Guide
-Korea Translation of Google's R Style Guide
+### 구글의 R 스타일 안내
+
+R은 통계적 계산이나 시각화에 주로 사용되는 고수준 프로그래밍 언어입니다. R 스타일 안내의 목적은 우리가 작성한 R 코드를 읽고, 공유하고 검증하기 쉽게 하는 것입니다. 아래에 있는 규칙들은 구글의 전체 R 사용자 커뮤니티의 협업으로 작성되었습니다.
